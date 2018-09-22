@@ -1,5 +1,8 @@
 _repo: La-media-noche-vision-estelar-de-un-momento-de-guerra_55448
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55448-h/images/cover.jpg
 creator:
   author:
     agent_name: Valle-Inclán, Ramón del
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3562
     wikipedia: http://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55448#La-media-noche-vision-estelar-de-un-momento-de-guerra
 gutenberg_issued: '2017-08-28'
 gutenberg_type: Text
 identifiers:
